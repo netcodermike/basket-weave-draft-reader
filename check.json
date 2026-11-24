@@ -1,0 +1,16 @@
+{
+  "command": [
+    "{python}",
+    "app.py"
+  ],
+  "expected": {
+    "drawdown": [
+      "#.#.",
+      ".#.#",
+      ".#.#",
+      "#.#."
+    ],
+    "longest_weft_float": 1,
+    "longest_warp_float": 2
+  }
+}
